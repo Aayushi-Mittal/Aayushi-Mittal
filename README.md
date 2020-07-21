@@ -1,5 +1,5 @@
 ### Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Aayushi-Mittal.Aayushi-Mittal)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushi-mittal" alt="aayushi-mittal" /> </p>
 
 <!--
 **Aayushi-Mittal/Aayushi-Mittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
