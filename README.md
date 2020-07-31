@@ -1,5 +1,7 @@
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushi-mittal" alt="aayushi-mittal" /> </p>
+<!-- <img src="https://imgur.com/WAiBR0D.gif"> -->
+<img src="https://imgur.com/ePLe9mA.gif">
 
 <!--
 **Aayushi-Mittal/Aayushi-Mittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
