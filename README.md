@@ -1,9 +1,14 @@
-### Hi there 👋
+### <img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> Hello World <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushi-mittal" alt="aayushi-mittal" /> </p>
-<!-- <img src="https://imgur.com/WAiBR0D.gif"> -->
-<img src="https://imgur.com/ePLe9mA.gif">
+<img src="https://imgur.com/Z9n1y5S.gif" height=50% width=50% align="right">
+<p><i> I'm Aayushi a 2nd year Computer Science Undergraduate from Maharaja Agrasen Institute Of Technology, Delhi. I'm a Tech Enthusiast, Front-end Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
 
-[![Aayushi-Mittal's github stats](https://github-readme-stats.vercel.app/api?username=Aayushi-Mittal&count_private=true&show_icons=true&bg_color=#000&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 **I’m currently learning** : `Data Structures`, `Full Stack Web Development`
+- 💬 **Ask me about** : `HTML`, `CSS`, `Open Source`, `C++`
+- 📫 **How to reach me** : <code><a href="mailto:aayushimittal088@gmail.com">aayushimittal088@gmail.com</a></code>
+- 😄 **Pronouns** : `She`/`Her`
+<!-- <img src="https://imgur.com/WAiBR0D.gif"> -->
+[![](https://imgur.com/ePLe9mA.gif")[![Aayushi-Mittal's github stats](https://github-readme-stats.vercel.app/api?username=Aayushi-Mittal&count_private=true&show_icons=true&bg_color=#000&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Aayushi-Mittal/Aayushi-Mittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
