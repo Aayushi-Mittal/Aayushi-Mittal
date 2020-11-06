@@ -4,11 +4,11 @@
 
 <p><i> I'm Aayushi a 2nd year Computer Science Undergraduate from Maharaja Agrasen Institute Of Technology, Delhi. I'm a Tech Enthusiast, Front-end Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
 <ul>
-<li> 🌱 **I’m currently learning** : <code>Data Structures</code>, <code>Full Stack Web Development</code></li>
-<li> 💬 **Ask me about** : <code>HTML</code>, <code>CSS</code>, <code>Open Source</code>, <code>C++</code></li>
-<li> 📫 **How to reach me** : <code><a href="mailto:aayushimittal088@gmail.com">aayushimittal088@gmail.com</a></code></li>
-<li> 😄 **Pronouns** : <code>She</code>/<code>Her</code></li>
-<li> ⚡ **Fun fact** : I know <code>Japanese</code> 🎌🈸</li>
+<li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>Full Stack Web Development</code></li>
+<li> 💬 <b>Ask me about</b> : <code>HTML</code>, <code>CSS</code>, <code>Open Source</code>, <code>C++</code></li>
+<li> 📫 <b>How to reach me</b> : <code><a href="mailto:aayushimittal088@gmail.com">aayushimittal088@gmail.com</a></code></li>
+<li> 😄 <b>Pronouns</b> : <code>She</code>/<code>Her</code></li>
+<li> ⚡ <b>Fun fact</b> : I know <code>Japanese</code> 🎌🈸</li>
 </ul>
 
 <img src="https://imgur.com/ePLe9mA.gif" align="right" height=38% width=38%>
