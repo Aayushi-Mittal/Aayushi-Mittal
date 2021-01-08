@@ -10,7 +10,7 @@
 <li> 📫 <b>How to reach me</b> : <code><a href="mailto:aayushimittal088@gmail.com">aayushimittal088@gmail.com</a></code></li>
 <li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://aayushi-mittal.github.io/portfolio/">https://aayushi-mittal.github.io/portfolio/</a></code></li>
 <li> 😄 <b>Pronouns</b> : <code>She</code>/<code>Her</code></li>
-<!-- <li> ⚡ <b>Fun fact</b> : I know <code>Japanese</code> 🎌🈸</li> -->
+<!-- <li> ⚡ <b>Fun fact</b> : </li> -->
 </ul>
 
 <img src="https://imgur.com/ePLe9mA.gif" align="right" height=38% width=38%>
@@ -37,8 +37,11 @@
 
 <center>
 <h2 align="center">Git Hub Stats</h2>
+  <!--
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aayushi-Mittal&count_private=true&show_icons=true&bg_color=#000&theme=cobalt"></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushi-Mittal&theme=dark&hide_border=true"/></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushi-Mittal&theme=dark&hide_border=true"/></p> 
+  -->
+<p align="center"><img src="https://metrics.lecoq.io/Aayushi-Mittal" alt="Github Metrics"></p>
 
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
 </center>
