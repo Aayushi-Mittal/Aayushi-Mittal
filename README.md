@@ -32,7 +32,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@__aayushimittal__-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_aayushimittal_)](https://twitter.com/_aayushimittal_) 
 [![Linkedin Badge](https://img.shields.io/badge/-aayushimittal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/inaayushi-mittal-309853196/)](https://www.linkedin.com/in/aayushi-mittal-309853196/)
 
-[![Medium Badge](https://img.shields.io/badge/-@aayushi_mittal-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aayushi__mittal/)](https://medium.com/@aayushi_mittal)
+[![Medium Badge](https://img.shields.io/badge/-@aayushi_mittal-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aayushi__mittal/)](https://aayushi-mittal.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-aayushimittal088@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aayushimittal088@gmail.com)](mailto:aayushimittal088@gmail.com)
 
 <center>
