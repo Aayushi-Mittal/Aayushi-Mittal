@@ -7,7 +7,7 @@
 <ul>
 <li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>Python</code></li>
 <li> 💬 <b>Ask me about</b> : <code>HTML</code>, <code>CSS</code>, <code>Open Source</code>, <code>C++</code></li>
-<li> 📫 <b>How to reach me</b> : <code><a href="mailto:aayushimittal088@gmail.com">aayushimittal088@gmail.com</a></code></li>
+<li> 📫 <b>How to reach me</b> : <code><a href="https://linkedin.com/in/aayushi-mittal-309853196/">LinkedIn</a></code></li>
 <li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://aayushi-mittal.github.io/portfolio/">https://aayushi-mittal.github.io/portfolio/</a></code></li>
 <li> 😄 <b>Pronouns</b> : <code>She</code>/<code>Her</code></li>
 <!-- <li> ⚡ <b>Fun fact</b> : </li> -->
