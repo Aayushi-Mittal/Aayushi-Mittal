@@ -3,7 +3,7 @@
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushi-mittal" alt="aayushi-mittal" /> </p>
 
-<p><i> I'm Aayushi a 2nd year Computer Science Undergraduate from Maharaja Agrasen Institute Of Technology, Delhi. I'm a Tech Enthusiast, Front-end Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
+<p><i> I'm Aayushi a 3rd year Computer Science Undergraduate from Maharaja Agrasen Institute Of Technology, Delhi. I'm a Tech Enthusiast, Front-end Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
 <ul>
 <li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>Python</code></li>
 <li> 💬 <b>Ask me about</b> : <code>HTML</code>, <code>CSS</code>, <code>Open Source</code>, <code>C++</code></li>
