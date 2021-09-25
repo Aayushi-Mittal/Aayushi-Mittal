@@ -6,7 +6,7 @@
 <p><i> I'm Aayushi a 3rd year Computer Science Undergraduate from Maharaja Agrasen Institute Of Technology, Delhi. I'm a Tech Enthusiast, Front-end Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
 <ul>
 <li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>Full Stack Web Development</code></li>
-<li> 💬 <b>Ask me about</b> : <code>HTML</code>, <code>CSS</code>, <code>Git/Github</code>, <code>C++</code></li>
+<li> 💬 <b>Ask me about</b> : <code>Web Development</code>, <code>Git/Github</code>, <code>C++</code></li>
 <li> 📫 <b>How to reach me</b> : <code><a href="https://linkedin.com/in/aayushi-mittal-309853196/">LinkedIn</a></code></li>
 <li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://aayushi-mittal.github.io/portfolio/">https://aayushi-mittal.github.io/portfolio/</a></code></li>
 <li> 😄 <b>Pronouns</b> : <code>She</code>/<code>Her</code></li>
