@@ -48,6 +48,9 @@
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
 </center>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <!--
 **Aayushi-Mittal/Aayushi-Mittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
