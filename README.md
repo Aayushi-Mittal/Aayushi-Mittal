@@ -8,7 +8,7 @@
 
 <p>I am from Delhi, India. I am a tech geek and an artist who is still learning. Currently, I am pursuing B.Tech in Computer Science from Maharaja Agrasen Institute Of Technology, Delhi. Earlier I used to wonder about computers, graphics, and what happens behind the scenes. But gradually realized, it is just 0's and 1's. Quite interesting?
 
-My expertise includes Web development. So far I have C++, Python, Django, Javascript, Typescript, HTML, CSS, Bootstrap, Tailwind CSS, React, SQL, and Git/Github under my belt. I am learning full-stack development as well. I love to learn new things and explore, it can be anything like new technologies, food, cities, etc.
+My expertise includes Web development. So far I have C/C++, Python, Django, Javascript, Typescript, HTML, CSS, Bootstrap, Tailwind CSS, React, SQL, and Git/Github under my belt. I am learning full-stack development as well. I love to learn and explore new technologies.
 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -62,14 +62,15 @@ I am passionate about social good and technology. I enjoy helping people. Feel f
 
 <details>
 <summary><h3 align="center">Git Hub Stats</h3></summary>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aayushi-Mittal&count_private=true&show_icons=true&bg_color=#000&theme=cobalt"></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushi-Mittal&theme=dark&hide_border=true"/></p> 
+<p><img src="https://github-readme-stats.vercel.app/api?username=Aayushi-Mittal&count_private=true&show_icons=true&bg_color=#000&theme=cobalt"></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushi-Mittal&theme=dark&hide_border=true"/></p> 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+![snake gif](https://github.com/Aayushi-Mittal/Aayushi-Mittal/blob/output/github-contribution-grid-snake.gif)
 <!--<p align="center">See More: https://metrics.lecoq.io/about/Aayushi-Mittal, https://octoprofile.vercel.app/user?id=AAYUSHI-MITTAL</p>-->
 </details>
 
-<p align="center"><img src="https://metrics.lecoq.io/Aayushi-Mittal" alt="Github Metrics"></p>
+<p><img src="https://metrics.lecoq.io/Aayushi-Mittal" alt="Github Metrics"></p>
 
 
 <!--
