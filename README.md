@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushi-mittal" alt="aayushi-mittal" /> </p>
 
-<p>I am from Delhi, India. I am a tech geek and an artist who is still learning. Currently, I am pursuing B.Tech in Computer Science from Maharaja Agrasen Institute Of Technology, Delhi. Earlier I used to wonder about computers, graphics, and what happens behind the scenes. But gradually realized, it is just 0's and 1's. Quite interesting?
+<p>I am <b>Aayushi</b> from Delhi, India. I am a tech geek and an artist who is still learning. Currently, I am pursuing B.Tech in Computer Science from Maharaja Agrasen Institute Of Technology, Delhi. Earlier I used to wonder about computers, graphics, and what happens behind the scenes. But gradually realized, it is just 0's and 1's. Quite interesting. Isn't it?
 
 My expertise includes Web development. So far I have C/C++, Python, Django, Javascript, Typescript, HTML, CSS, Bootstrap, Tailwind CSS, React, SQL, and Git/Github under my belt. I am learning full-stack development as well.
 
@@ -34,7 +34,7 @@ My expertise includes Web development. So far I have C/C++, Python, Django, Java
 
 <img src="https://imgur.com/ePLe9mA.gif" align="right" width=36%>
 
-I am passionate about social good and technology. I enjoy helping people. Feel free to connect with me.</p>
+I am passionate about social good and technology. I enjoy helping people. So, please feel free to connect with me.</p>
 
 <div align="center">
 <a href="https://twitter.com/_aayushimittal_" target="_blank">
