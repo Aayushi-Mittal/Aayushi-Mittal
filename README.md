@@ -58,9 +58,9 @@ I am passionate about social good and technology. I enjoy helping people. So, pl
 
 <details>
 <summary><h3 align="center">Git Hub Stats</h3></summary>
-<p><img src="https://github-readme-stats.vercel.app/api?username=Aayushi-Mittal&count_private=true&show_icons=true&bg_color=#000&theme=cobalt"></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushi-Mittal&theme=dark&hide_border=true"/></p> 
+
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-124-blue)
@@ -142,12 +142,17 @@ C++                      5 repos             █░░░░░░░░░░�
  Last Updated on 10/10/2022 01:53:14 UTC
 <!--END_SECTION:waka-->
 
-![snake gif](https://github.com/Aayushi-Mittal/Aayushi-Mittal/blob/output/github-contribution-grid-snake.gif)
+<p align = "center">
+	<img src = "https://github.com/Aayushi-Mittal/Aayushi-Mittal/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+</p>
 
 <!--<p align="center">See More: https://metrics.lecoq.io/about/Aayushi-Mittal, https://octoprofile.vercel.app/user?id=AAYUSHI-MITTAL</p>-->
 </details>
 
 <p><img src="https://metrics.lecoq.io/Aayushi-Mittal" alt="Github Metrics"></p>
+
+
+
 
 
 <!--
