@@ -61,6 +61,85 @@ I am passionate about social good and technology. I enjoy helping people. So, pl
 <p><img src="https://github-readme-stats.vercel.app/api?username=Aayushi-Mittal&count_private=true&show_icons=true&bg_color=#000&theme=cobalt"></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushi-Mittal&theme=dark&hide_border=true"/></p> 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2058%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-124-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 441 Contributions in the Year 2022
+ > 
+> 📦 587.1 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 90 Public Repositories 
+ > 
+> 🔑 29 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
+🌆 Daytime    115 commits    ████████░░░░░░░░░░░░░░░░░   33.33% 
+🌃 Evening    93 commits     ██████░░░░░░░░░░░░░░░░░░░   26.96% 
+🌙 Night      122 commits    ████████░░░░░░░░░░░░░░░░░   35.36%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.94% 
+Tuesday      15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
+Wednesday    44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.75% 
+Thursday     46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Friday       70 commits     █████░░░░░░░░░░░░░░░░░░░░   20.29% 
+Saturday     57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.52% 
+Sunday       58 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.81%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               1 hr 25 mins        █████████████████████░░░░   83.6% 
+HTML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.34% 
+CSS                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.9% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+
+🔥 Editors: 
+VS Code                  1 hr 41 mins        █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+ping pong                1 hr 41 mins        █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  1 hr 41 mins        █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     25 repos            ████████░░░░░░░░░░░░░░░░░   32.47% 
+JavaScript               23 repos            ███████░░░░░░░░░░░░░░░░░░   29.87% 
+Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.79% 
+C++                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.49%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Aayushi-Mittal/Aayushi-Mittal/master/charts/bar_graph.png) 
+
+
+ Last Updated on 10/10/2022 01:53:14 UTC
 <!--END_SECTION:waka-->
 
 ![snake gif](https://github.com/Aayushi-Mittal/Aayushi-Mittal/blob/output/github-contribution-grid-snake.gif)
