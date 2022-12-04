@@ -89,11 +89,10 @@ Sunday       56 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               36 mins             █████████████████████░░░░   87.42% 
-Bash                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.58%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-aayushimittal088-ME_BUILD42 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -110,7 +109,7 @@ C++                      5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/12/2022 01:02:42 UTC
+ Last Updated on 04/12/2022 01:06:54 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
