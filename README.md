@@ -89,10 +89,10 @@ Sunday       58 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+SQL                      6 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          6 mins              █████████████████████████   100.0%
 
 ```
 
@@ -109,7 +109,7 @@ C++                      5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2022 01:02:22 UTC
+ Last Updated on 17/12/2022 01:00:30 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
