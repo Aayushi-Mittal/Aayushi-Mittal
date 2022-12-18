@@ -60,7 +60,7 @@ I am passionate about social good and technology. I enjoy helping people. So, pl
 <summary><h3 align="center">Git Hub Stats</h3></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2035%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -109,7 +109,7 @@ C++                      5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/12/2022 01:00:30 UTC
+ Last Updated on 18/12/2022 01:02:02 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
