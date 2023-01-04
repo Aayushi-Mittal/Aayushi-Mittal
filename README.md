@@ -60,7 +60,7 @@ I am passionate about social good and technology. I enjoy helping people. So, pl
 <summary><h3 align="center">Git Hub Stats</h3></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2044%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -89,11 +89,12 @@ Sunday       56 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               6 mins              █████████████░░░░░░░░░░░░   54.06% 
-JSON                     5 mins              ███████████░░░░░░░░░░░░░░   45.94%
+JavaScript               15 mins             ██████████████████░░░░░░░   73.6% 
+JSON                     5 mins              ██████░░░░░░░░░░░░░░░░░░░   26.4%
 
 🐱‍💻 Projects: 
-Unknown Project          12 mins             █████████████████████████   100.0%
+Unknown Project          12 mins             ██████████████░░░░░░░░░░░   57.46% 
+codeial-react-app-main   8 mins              ██████████░░░░░░░░░░░░░░░   42.54%
 
 ```
 
@@ -110,7 +111,7 @@ C++                      5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2023 01:02:17 UTC
+ Last Updated on 04/01/2023 01:04:00 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
