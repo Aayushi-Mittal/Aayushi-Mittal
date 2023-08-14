@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushi-mittal" alt="aayushi-mittal" /> </p>
 
-<p>I am <b>Aayushi</b> based in Delhi, India. I am a tech geek who is pursuing B.Tech in Computer Science from Maharaja Agrasen Institute Of Technology, Delhi. Earlier, I used to be curious about computers, graphics, and what happens behind the scenes. However, all that exists are binary digits. Very intriguing, indeed.
+<p>I am <b>Aayushi</b> based in Delhi, India. I am a tech geek, pursued B.Tech in Computer Science from Maharaja Agrasen Institute Of Technology, Delhi. Earlier, I used to be curious about computers, graphics, and what happens behind the scenes. However, all that exists are binary digits. Very intriguing, indeed.
 
 I have experience with web development. So far I have C/C++, Python, Django, Javascript, Typescript, HTML, CSS, Bootstrap, Tailwind CSS, React, SQL, and Git/Github under my belt. To complement my web development skills, I am learning full stack.
 
